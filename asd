@@ -1,4 +1,4 @@
-
+```java
 package hashsetgyakorlas;
 
 import java.util.*;
@@ -28,3 +28,4 @@ public class HashSetgyakorlas {
     }
     
 }
+```
